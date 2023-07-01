@@ -1,0 +1,5 @@
+C:\Users\Toshiba\Desktop\portfolio\portfolio\obj\Debug\net6.0\portfolio.csproj.AssemblyReference.cache
+C:\Users\Toshiba\Desktop\portfolio\portfolio\obj\Debug\net6.0\portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\Desktop\portfolio\portfolio\obj\Debug\net6.0\portfolio.AssemblyInfoInputs.cache
+C:\Users\Toshiba\Desktop\portfolio\portfolio\obj\Debug\net6.0\portfolio.AssemblyInfo.cs
+C:\Users\Toshiba\Desktop\portfolio\portfolio\obj\Debug\net6.0\portfolio.csproj.CoreCompileInputs.cache
